@@ -1,0 +1,9 @@
+[submodule "ios"]
+	path = ios
+	url = https://github.com/RevelationApp/ios.git
+[submodule "android"]
+	path = android
+	url = https://github.com/RevelationApp/android.git
+[submodule "AarKay/aarkay-plugin-revelation"]
+	path = AarKay/aarkay-plugin-revelation
+	url = https://github.com/RevelationApp/aarkay-plugin-revelation.git

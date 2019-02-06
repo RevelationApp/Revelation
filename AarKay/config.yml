@@ -1,0 +1,10 @@
+revelation:
+  android: android/app/
+  ios: ios/Shared/RevelationUI
+restofire:
+  projectName: RevelationAPI
+  packageName: com.rahulkatariya
+  iosDir: ios/Shared/RevelationAPI
+  androidDir: android
+coredata:
+  domainModuleName: RevelationDomain
